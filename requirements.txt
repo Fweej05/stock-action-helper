@@ -3,3 +3,4 @@ yfinance
 pandas
 openpyxl
 pytz
+git+https://github.com/rongardF/tvdatafeed.git
